@@ -42,7 +42,7 @@ python3 -m bot
 ```
 
 ### Heroku Deploy
-[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/Falana-Dhikana/lb "Heroku")
+[<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" height="40"/>](https://heroku.com/deploy?template=https://github.com/Falana-Dhikana/TelegramFilestoCloud "Heroku")
 
 ## :clap:  Supporters
 
